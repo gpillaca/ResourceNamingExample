@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ResourceNamingExample</string>
+
+    <string name="txt_common_seemore">value here</string>
+    <string name="txt_common_ok">value here</string>
+    <string name="txt_common_cancel">value here</string>
+    <string name="txt_common_next">value here</string>
+    <string name="txt_common_skip">value here</string>
+    <string name="txt_common_done">value here</string>
+
+    <string name="txt_movie_title">value here</string>
+    <string name="txt_movie_name">value here</string>
+
+    <string name="txt_trailer_title">value here</string>
+    <string name="txt_trailer_description">value here</string>
+
+    <string name="txt_theater_name">value here</string>
+    <string name="txt_theater_submit">value here</string>
+
 </resources>

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryDark">#F1F2F3</color>
+    <color name="colorPrimary">@color/whiteColor</color>
+    <color name="colorSecondary">#dddfe1</color>
+    <color name="colorSecondaryLight">#999fa3</color>
+
+    <color name="windowBackground">#F1F2F3</color>
+    <color name="textColorPrimary">@color/grayDarkColor</color>
+    <color name="textColorSecondary">@color/grayLightColor</color>
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="accentColorPrimary">#FF7300</color>
+    <color name="accentColorSecondary">#5879AB</color>
+    <color name="accentColorSecondaryDark">#375e9a</color>
+    <color name="accentColorPrimaryDisable">#dddfe1</color>
+    <color name="accentColorSecondaryDisable">#999fa3</color>
+
+    <color name="textColorAccentPrimary">@color/whiteColor</color>
+    <color name="textColorAccentSecondary">#777E85</color>
+
+    <color name="hint">#999FA3</color>
+    <color name="line_divider">#DDDFE1</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="whiteColorTransparent">#7affffff</color>
+    <color name="statusBarColor">#1e000000</color>
+    <color name="blackColorTransparent20">#33000000</color>
+    <color name="grayDarkColor">#333E48</color>
+    <color name="grayLightColor">#777E85</color>
 </resources>
