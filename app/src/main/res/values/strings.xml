@@ -17,13 +17,13 @@
     <string name="txt_theater_name">value here</string>
     <string name="txt_theater_submit">value here</string>
 
-    <string name="shortcut_gonow">value here</string>
-    <string name="shortcut_home">value here</string>
-    <string name="shortcut_billboard">value here</string>
+    <string name="txt_shortcut_gonow">value here</string>
+    <string name="txt_shortcut_home">value here</string>
+    <string name="txt_shortcut_billboard">value here</string>
 
-    <string name="error_conexion">value here</string>
-    <string name="error_password">value here</string>
-    <string name="error_unexpected">value here</string>
+    <string name="txt_error_conexion">value here</string>
+    <string name="txt_error_password">value here</string>
+    <string name="txt_error_unexpected">value here</string>
 
-    <string name="deeplink_movie">value here</string>
+    <string name="txt_deeplink_movie">value here</string>
 </resources>
